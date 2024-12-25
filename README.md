@@ -15,7 +15,7 @@ yarn install
 1. Start the development server:
 
 ```sh
-yarn start
+yarn run dev
 ```
 
 2. Open your browser and visit:
